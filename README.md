@@ -2,5 +2,5 @@
  Primeiro repositório versionado
 
 Essa linha eu alterei diretamente no site! Que impressionate!
-Alterei no VS code
+\n Alterei no VS code
 
